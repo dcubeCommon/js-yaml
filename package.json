@@ -24,7 +24,7 @@
     "dist/"
   ],
   "bin": {
-    "js-yaml": "bin/js-yaml.js"
+    "dcube-js-yaml": "bin/js-yaml.js"
   },
   "unpkg": "dist/js-yaml.min.js",
   "jsdelivr": "dist/js-yaml.min.js",
